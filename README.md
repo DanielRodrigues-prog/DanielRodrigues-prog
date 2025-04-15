@@ -1,9 +1,16 @@
+
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Minha foto" style="border-radius:50%">
   <h2>Bem-vindo ao meu repositório GitHub!</h2>
   <p>Sou apaixonado por desenvolvimento de software e tenho experiência em diversas linguagens de programação.</p>
 </div>
+<div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRodrigues-prog&show=reviews&show_icons=true&theme=dracula,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodrigues-prog&layout=compact&langs_count=16&theme=dracula"/>
+  
+</div>
 ## 💻 Linguagens e Tecnologias
 
 <div align="center">
