@@ -23,4 +23,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<p>Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email para <a href="mailto:danielrodriguesete@gmail.com">danielrodriguesete@gmail.com</a>.</p>
+<p align="center">Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email para <a href="mailto:danielrodriguesete@gmail.com">danielrodriguesete@gmail.com</a>.</p>
