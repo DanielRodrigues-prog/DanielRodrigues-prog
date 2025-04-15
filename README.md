@@ -2,7 +2,7 @@
 
 <div align="left">
   <h2>Bem-vindo ao meu repositório GitHub!</h2>
-  <p>Sou apaixonado por desenvolvimento de software e tenho experiência em diversas linguagens de programação.</p>
+  <p>Sou interessado por desenvolvimento de software e tenho experiência em diversas linguagens de programação.</p>
 </div>
 <div>
 
