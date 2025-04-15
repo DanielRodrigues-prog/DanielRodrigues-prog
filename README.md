@@ -11,7 +11,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-     style="width: 300px;"
+     style="width: 200px;"
     src="https://github-readme-stats.vercel.app/api?username=DanielRodrigues-prog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
