@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="left">
   <h2>Bem-vindo ao meu repositório GitHub!</h2>
   <p>Sou apaixonado por desenvolvimento de software e tenho experiência em diversas linguagens de programação.</p>
 </div>
@@ -27,21 +27,21 @@
   <br><br>
   <br><br>
   <br><br>
-<div align="center">
-<h2>🖥️ Linguagens </h2>
-</div>
+  
+### 🖥️ Linguagens
+<br>
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<div align="left" style="display: inline_block">
+  <img align="left" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div><br> <br>
 
 
-<div align="center">
-<h2>📧 Forma de contato </h2>
+
+### 📧 Forma de contato 
 <p>Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email para <a href="mailto:danielrodriguesete@gmail.com">danielrodriguesete@gmail.com</a>.</p>
-</div>
+
