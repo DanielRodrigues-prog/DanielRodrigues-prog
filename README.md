@@ -6,7 +6,7 @@
 </div>
 <div>
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -21,9 +21,8 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9"
   />
+</div>
 
-</p>
-  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
