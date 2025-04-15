@@ -8,7 +8,7 @@
 
 
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
      style="width: 400px;"
@@ -16,7 +16,7 @@
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200"
        style="width: 300px;" 
