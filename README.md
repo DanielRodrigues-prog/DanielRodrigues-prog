@@ -19,7 +19,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200"
-       style="width: 300px;" 
+       style="width: 200px;" 
       src="https://github-readme-stats-danielrodrigues-progs-projects.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&custom_title=Linguagens&langs_count=16"
   />
   
