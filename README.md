@@ -6,9 +6,9 @@
 </div>
 <div>
 
-<div>
+
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -16,21 +16,32 @@
   />
 
 <img 
-      align="center" 
+      align="left" 
       alt="GitHub Stats" 
       height="200"
       style="padding-right: 10px;" 
-      src="https://github-readme-stats-danielrodrigues-progs-projects.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=16"
+      src="https://github-readme-stats-danielrodrigues-progs-projects.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&custom_title=Linguagens&langs_count=16"
   />
+  
+  <br><br>
+  <br><br>
+  <br><br>
+  <br><br>
+<div align="center">
+<h2>🖥️ Linguagens </h2>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div><br>
+</div>
 
-<p align="center">Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email para <a href="mailto:danielrodriguesete@gmail.com">danielrodriguesete@gmail.com</a>.</p>
+
+<div align="center">
+<h2>📧 Forma de contato </h2>
+<p>Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um email para <a href="mailto:danielrodriguesete@gmail.com">danielrodriguesete@gmail.com</a>.</p>
+</div>
