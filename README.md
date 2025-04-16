@@ -29,13 +29,14 @@
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=DanielRodrigues-prog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=DanielRodrigues-prog&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200"
+      width="450"
       src="https://github-readme-stats-danielrodrigues-progs-projects.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=16"
   />
