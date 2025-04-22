@@ -32,7 +32,7 @@
     alt="GitHub Stats" 
     height="200"
     width="400"
-    src="https://github-readme-stats.vercel.app/api?username=DanielRodrigues-prog&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DanielRodrigues-prog&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
