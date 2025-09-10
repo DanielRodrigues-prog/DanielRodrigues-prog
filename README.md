@@ -40,5 +40,5 @@
       alt="GitHub Stats" 
       height="200"
       width="400"
-      src="https://github-readme-stats-danielrodrigues-progs-projects.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=16"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodrigues-prog&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=16"
   />
